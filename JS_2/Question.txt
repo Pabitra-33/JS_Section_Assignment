@@ -1,0 +1,8 @@
+Question 2: 
+Modify the code from the previous question example.
+
+Assume that the prices of flowers will be constant (they will not change).
+Declare and initialize the remaining variables in the same way as in the previous example. 
+Display all the gathered information in the console. Now decrease the number of roses by 20 and lilies by 30.
+
+Display all the collected information in the console again.
